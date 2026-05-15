@@ -157,6 +157,6 @@ The table remains the editable source of truth. The visual layer becomes the exe
 
 ### Screenshots
 
-- ![Task Layer](assets/Task%20Layer.png)
 - ![Daily OS](assets/Daily%20OS.png)
+- ![Task Layer](assets/Task%20Layer.png)
 
