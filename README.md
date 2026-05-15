@@ -93,7 +93,7 @@ flowchart LR
 | Consequences | Makes the real cost of not completing the task visible |
 | 90-Second Mental Rehearsal | Primes the starting state before execution |
 
-The AI layer is embedded inside the workflow. It is not a chatbot on the side. It sits directly inside the task system to reduce friction, surface the next action, and connect each task to a larger future outcome.
+The AI layer is embedded inside the workflow. It sits directly inside the task system to reduce friction, surface the next action, and connect each task to a larger future outcome.
 
 ---
 
