@@ -131,19 +131,6 @@ Airtable acts as the editable operating base. The table structure keeps tasks ea
 
 **Tool evaluation:** Tested Airtable as both backend and interface layer, then identified the right architecture: Airtable for structured workflow data; React Flow/Vercel for the future visual graph.
 
----
-
-### Built With: Airtable · Airtable AI · Linked Records · Rollups · Formulas · Prompt Design · Workflow Architecture · Graph-Ready Data Modeling
-
-
----
-
-### Screenshots
-
-- ![Task Layer](assets/task-layer.png)
-- ![Daily OS](assets/daily-os.png)
-- ![AI Fields](assets/ai-fields.png)
-- ![Unlock Chain](assets/unlock-chain.png)
 
 ---
 
@@ -159,4 +146,19 @@ Airtable backend
 → Airtable sync  
 
 The table remains the editable source of truth. The visual layer becomes the execution interface: current task highlighted, future tasks softened, dotted unlock paths, outcome hubs, and a focus timer that helps move from intention to action.
+
+
+---
+
+### Built With: Airtable · Airtable AI · Linked Records · Rollups · Formulas · Prompt Design · Workflow Architecture · Graph-Ready Data Modeling
+
+
+---
+
+### Screenshots
+
+- ![Task Layer](assets/task-layer.png)
+- ![Daily OS](assets/daily-os.png)
+- ![AI Fields](assets/ai-fields.png)
+- ![Unlock Chain](assets/unlock-chain.png)
 
