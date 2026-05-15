@@ -2,7 +2,7 @@
 
 **Daily OS + Momentum Outcome Map** is an Airtable-based operating system that connects daily execution to visible outcomes through dependency-based momentum.
 
-**Problem:** Most task tools flatten work into isolated to-dos. They show what to do — but not what possibility the task unlocks, how it connects to a larger outcome, AND why it's worth starting now.
+**Problem:** Most task tools flatten work into isolated to-dos. They show what to do — but not what possibility the task unlocks, how it connects to a larger outcome, *AND* why it's worth starting now.
 
 **Solution:** An Airtable workflow system that combines task tracking, AI-generated next actions, emotional future unlocks, consequence prompts, scoring, progress tracking, daily rollups, and linked-record unlock paths.
 
