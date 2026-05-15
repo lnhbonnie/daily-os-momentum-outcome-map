@@ -1,6 +1,6 @@
 # Daily OS + Momentum Outcome Map
 
-**Productivity Map** is an Airtable-based operating system that connects every task to the outcome it builds toward.
+**Daily OS + Momentum Outcome Map** is an Airtable-based operating system that connects daily execution to visible outcomes through dependency-based momentum.
 
 **Problem:** Most task tools flatten work into isolated to-dos. They show what to do, but not what possibliity/options/life the task unlocks, how it connects to a larger outcome, AND why it is worth starting now.
 
@@ -132,9 +132,8 @@ Airtable acts as the editable operating base. The table structure keeps tasks ea
 
 ---
 
-### Built With
+### Built With: Airtable · Airtable AI · Linked Records · Rollups · Formulas · Prompt Design · Workflow Architecture · Graph-Ready Data Modeling
 
-Airtable, Airtable AI, linked records, rollups, formulas, prompt design, workflow architecture, graph-ready data modeling.
 
 ---
 
@@ -146,13 +145,6 @@ Add screenshots in `/screenshots`:
 - `screenshots/daily-os.png`
 - `screenshots/ai-fields.png`
 - `screenshots/unlock-chain.png`
-
-Suggested screenshot order:
-
-1. **Task Layer 1** — task, progress, AI Breakdown, Future Unlock, Consequences, Unlocks  
-2. **Daily OS** — date, daily goal, linked tasks, total score, daily grade  
-3. **AI Fields** — generated next actions and future/consequence prompts  
-4. **Unlock Chain** — Airtable V1 → README → GitHub → Resume → Email → Application path  
 
 ---
 
