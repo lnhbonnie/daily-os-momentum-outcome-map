@@ -4,7 +4,8 @@
 
 **Problem:** Most task tools flatten work into isolated to-dos. They show what to do — but not what possibility the task unlocks, how it connects to a larger outcome, *AND* why it's worth starting now.
 
-**Solution:** An Airtable workflow system that combines task tracking, AI-generated next actions, emotional future unlocks, consequence prompts, scoring, progress tracking, daily rollups, and linked-record unlock paths.
+**Solution:** A relational Airtable system that maps tasks to outcomes with linked records, AI-generated next actions, scoring, progress tracking, and rollups — so each execution step is visible in a momentum map and tied directly to the outcome it advances.
+
 
 **Core idea:** Each task is a node toward the future you want — and the momentum compounds with every unlock.
 
