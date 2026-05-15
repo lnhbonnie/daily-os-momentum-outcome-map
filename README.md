@@ -159,6 +159,4 @@ The table remains the editable source of truth. The visual layer becomes the exe
 
 - ![Task Layer](assets/Task%20Layer.png)
 - ![Daily OS](assets/Daily%20OS.png)
-- ![AI Fields](assets/AI%20Fields.png)
-- ![Unlock Chain](assets/Unlock%20Chain.png)
 
