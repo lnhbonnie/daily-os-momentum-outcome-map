@@ -1,6 +1,6 @@
-# daily-OS-momentum-outcome-map
+# Daily OS + Momentum Outcome Map
 
-**Productivity Map** is an Airtable-based operating system that turns scattered tasks into visible momentum paths.
+**Productivity Map** is an Airtable-based operating system that turns tasks into visible momentum paths.
 
 **Problem:** Most task tools flatten work into isolated to-dos. They show what to do, but not what the task unlocks next, how it connects to a larger outcome, or why it is worth starting now.
 
