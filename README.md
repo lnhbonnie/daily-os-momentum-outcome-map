@@ -140,12 +140,10 @@ Airtable acts as the editable operating base. The table structure keeps tasks ea
 
 ### Screenshots
 
-Add screenshots in `/screenshots`:
-
-- `screenshots/task-layer.png`
-- `screenshots/daily-os.png`
-- `screenshots/ai-fields.png`
-- `screenshots/unlock-chain.png`
+- ![Task Layer](assets/task-layer.png)
+- ![Daily OS](assets/daily-os.png)
+- ![AI Fields](assets/ai-fields.png)
+- ![Unlock Chain](assets/unlock-chain.png)
 
 ---
 
