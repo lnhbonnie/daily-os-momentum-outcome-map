@@ -7,7 +7,7 @@
 **Solution:** A relational Airtable system that maps tasks to outcomes with linked records, AI-generated next actions, scoring, progress tracking, and rollups — so each execution step is visible in a momentum map and tied directly to the outcome it advances.
 
 
-**Core idea:** Each task is a node toward the future you want — and the momentum compounds with every unlock.
+**Core idea:** Each task is a node in a visible outcome path. Momentum compounds as completed steps make progress visible and the desired outcome inevitable
 
 ---
 
